@@ -1,0 +1,10 @@
+.react-datepicker__day--highlighted {
+    background-color: #ffcccb;
+    color: black;
+    border-radius: 50%;
+  }
+  .holiday {
+    background-color: #ffcccb !important;
+    color: black !important;
+  }
+  

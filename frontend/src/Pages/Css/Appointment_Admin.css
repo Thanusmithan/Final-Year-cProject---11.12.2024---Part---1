@@ -1,0 +1,47 @@
+/*New Css*/
+.admin-appointment-wrapper {
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.page-title {
+  font-weight: bold;
+  color: #333;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.table th:first-child, .table td:first-child {
+  text-align: left;
+}
+
+.table-responsive {
+  margin: auto;
+  width: 90%;
+}
+
+.modal-title {
+  font-weight: bold;
+  color: #333;
+}
+
+.modal .btn-close {
+  font-size: 1.2rem;
+}
+
+.admin-appointment-txt-center{
+  text-align: center;
+  margin-bottom: 40px;
+}

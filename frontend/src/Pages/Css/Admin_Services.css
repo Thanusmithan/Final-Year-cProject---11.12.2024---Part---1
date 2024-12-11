@@ -1,0 +1,88 @@
+/*New code*/
+.page-wrapper {
+  background-color: #f9f9f9;
+  min-height: 100vh;
+  padding: 20px 0;
+}
+
+.add-service-section h2 {
+  font-weight: bold;
+  color: #333;
+}
+
+.admin-service-card {
+  border-radius: 0px !important;
+  border: 1px solid rgba(0, 0, 0, 0.377);
+  background-color: #F8F9FA;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.admin-service-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.service-details {
+  padding: 10px;
+}
+
+.service-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.service-description,
+.doctor-name {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.card-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+}
+
+.dropdown-btn {
+  width: 100%;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid #28a745;
+  color: #28a745;
+  background-color: transparent;
+}
+
+.dropdown-btn:hover {
+  color: #ffffff;
+  background-color: #28a745;
+}
+
+.dropdown-menu {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.dropdown-item {
+  font-size: 0.9rem;
+}
+
+.dropdown-item:hover {
+  background-color: #f1f1f1;
+  color: #000;
+}
+
+.dropdown-item.text-danger:hover {
+  background-color: #f8d7da;
+  color: #dc3545;
+}
+
+.bold{
+  font-weight: bold;
+}
+.admin-service-txt-center{
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
